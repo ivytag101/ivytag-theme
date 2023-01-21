@@ -5,10 +5,11 @@
 
 ## This is a simple plug and play theme
 
-* The install will add ivy Mike color theme to your IDE
+* Go to extension section of your VScode, use the search bar and type `ivytag theme`. The first three letters will pop it up within a list
+* The install will add ivytag theme to your Vscode software
 * After install, Vscode will update it's color, simply click on `SET COLOR THEME`
 
-## Get up and running straight away
+## Get up and running straight away on Customizations
 
 * Press `F5` to open a new window with your extension loaded.
 * Open `File > Preferences > Color Themes` and pick your color theme.
